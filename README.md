@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sahitya0099 i recently pursue a course of b tech cse from gla university ,mathura
 - 👀 I’m interested in ... web development ,software development (for mobiles and other user software ),app development.
-- 🌱 I’m currently learning ... c programming
-- 💞️ I’m looking to collaborate on ...mini projects on c programming
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...sahityakumar0099@gmail.com
 - 😄 Pronouns: ...harworking ,logical,different from other in thinking
 - ⚡ Fun fact: ...new joiner ,wants to join in projects for experiance in coding
